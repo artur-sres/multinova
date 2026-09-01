@@ -1,7 +1,7 @@
 # Requisitos Funcionais
 
 Template de linha:
-| RFXXX | Nome do Requisito | Descrição do requisito, explicando o que o sistema deve fazer. | Necessário | ⏳Pendente | |
+| RFXXX | Nome do Requisito | Descrição do requisito, explicando o que o sistema deve fazer. | Necessário | ⏳Pendente | Observações |
 
 ## Autenticação e Usuários
 
